@@ -1,0 +1,16 @@
+{
+  "name": "viewport",
+  "version": "1.0.0",
+  "description": "cross-browser viewport size",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ubergrape/viewport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ubergrape/viewport/issues"
+  },
+  "homepage": "https://github.com/ubergrape/viewport"
+}
